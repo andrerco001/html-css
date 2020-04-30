@@ -45,6 +45,32 @@ p{
     text-transform: uppercase;
 }
 
+table{
+    width: 600px;
+
+}
+
+table thead{
+    background-color: cornflowerblue;
+}
+
+table tbody{
+    background-color: gainsboro;
+    text-align: left;
+}
+
+tbody tr:hover{
+    background-color: lightskyblue;
+}
+
+tbody td{
+    border-bottom: 1px solid black;
+}
+
+tbody tr:nth-child(even){
+    background-color: darkgrey;
+
+}
 
 
 
