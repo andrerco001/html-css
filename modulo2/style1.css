@@ -25,3 +25,17 @@ img{
     padding: 10px;
     margin: 20px;
 }
+
+.link{
+    color: darkblue;
+    font-size: 30px;
+}
+
+.link:hover{
+    color: red;
+}
+
+.link.visited{
+    color: seagreen;
+
+}
