@@ -5,6 +5,7 @@
 body{
     margin:0px;
 }
+
 .exemplo{
     background-color: rgb(137, 46, 173);
     width: auto;
@@ -15,6 +16,10 @@ img{
     height: inherit;
     max-width: 200px;
     max-height: 200px;
+}
+
+andre {
+    background-color: darkturquoise;
 }
 
 
