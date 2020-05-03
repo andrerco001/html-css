@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #DDDDDD;
+   
+}
+
+.container div{
+    width: 100px;
+    height: 100px;
+    background-color: #FF0000;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
